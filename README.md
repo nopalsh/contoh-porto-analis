@@ -7,11 +7,11 @@ Halo! Saya seorang **Data Analyst** dengan pengalaman dalam analisis data, visua
 Berikut adalah beberapa teknologi dan tools yang saya gunakan dalam analisis data :
 - 📊 Tableau & Power BI
 - 📂 Excel & Google Sheets
-- ....
+- .... 
 
 ## 📁 Proyek
 Beberapa proyek yang telah saya kerjakan:
-1. **📈 Analisis Tren Penjualan** - Menganalisis data penjualan untuk mengidentifikasi pola dan peluang peningkatan omzet.
+1. [**📈 Contoh Projek / Analist **](https://github.com/nopalsh/my-projects/tree/main/Data) 
 2. ...
 3. ...
 
@@ -19,8 +19,8 @@ Beberapa proyek yang telah saya kerjakan:
 
 ## 📬 Kontak
 Jika tertarik untuk berkolaborasi atau ingin bertanya lebih lanjut, silakan hubungi saya :
--  Email: [email@example.com](mailto:naufalshofy38@gmail.com)
-- inkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)
-- witter: [twitter.com/yourhandle](https://twitter.com/)
+- Email: [email@example.com](mailto:naufalshofy38@gmail.com)
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)
+- Twitter: [twitter.com/yourhandle](https://twitter.com/)
 
 Terima kasih sudah mengunjungi repositori ini! ⭐
